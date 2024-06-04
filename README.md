@@ -88,5 +88,5 @@ A: Assicurati di aver installato Python e Pygame correttamente. Controlla se ci 
 Le richieste di pull sono benvenute. Per cambiamenti importanti, apri prima una issue per discutere cosa vorresti cambiare.
 
 ## Licenza
-Questo progetto è licenziato sotto la licenza MIT - vedi il file [LICENSE](LICENSE) per i dettagli.
+Questo progetto è licenziato sotto la licenza MIT - vedi il file [LICENSE](LICENSE.md) per i dettagli.
 
